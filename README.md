@@ -1,0 +1,3 @@
+# Real-time news search engine using Upstash Kafka and Vector DB
+
+This repo is shamelessly recreated as an educational exercise, from a [Medium post](https://medium.com/decodingml/how-to-build-a-real-time-news-search-engine-using-serverless-upstash-kafka-and-vector-db-6ba393e55024) and [related repo](https://github.com/decodingml/articles-code/tree/main/articles/ml_system_design/real_time_news_search_with_upstash_kafka_and_vector_db)
